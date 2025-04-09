@@ -1,8 +1,14 @@
-#Hero-Section{
-    background-image: url("../img/bg-hero.jpg");
-    background-image: url("../img/FOTOMATI.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: left;
-    height: 30rem;
+#Hero-Section {
+  background-image: url("../img/bg-hero.jpg");
+  background-image: url("../img/FOTOMATI.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+  height: 30rem;
+}
+
+.img-proyecto {
+  height: 250px;
+  object-fit: cover;
+  border-radius: 0.5rem 0.5rem 0 0;
 }
